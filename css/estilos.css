@@ -1,0 +1,8 @@
+.container{
+    display: flex;
+    margin: auto;
+}
+
+.caja{
+    width: 500px;
+}
